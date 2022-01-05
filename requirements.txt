@@ -1,0 +1,6 @@
+note_seq==0.0.3
+torch==1.9.0+cu111
+numpy==1.21.0
+tqdm==4.61.2
+matplotlib==3.4.2
+h5py==3.5.0
